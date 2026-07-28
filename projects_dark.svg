@@ -15,7 +15,7 @@
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#F8FAFC">Pariksha_</text>
-          <text x="85" y="75" font-family="monospace" font-size="11" fill="#94A3B8">Secure AI Examination & Anti-Cheat Portal</text>
+          <text x="85" y="75" font-family="monospace" font-size="11" fill="#94A3B8">Secure AI Examination &amp; Anti-Cheat Portal</text>
           
           
               <rect x="85" y="95" width="51" height="20" rx="10" fill="#1E293B"/>
@@ -52,7 +52,7 @@
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#F8FAFC">HealthHub_</text>
-          <text x="85" y="75" font-family="monospace" font-size="11" fill="#94A3B8">Healthcare Telemedicine & Records Platform</text>
+          <text x="85" y="75" font-family="monospace" font-size="11" fill="#94A3B8">Healthcare Telemedicine &amp; Records Platform</text>
           
           
               <rect x="85" y="95" width="65" height="20" rx="10" fill="#1E293B"/>
@@ -89,7 +89,7 @@
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#F8FAFC">SecurePass_</text>
-          <text x="85" y="75" font-family="monospace" font-size="11" fill="#94A3B8">Zero-Knowledge Password Manager & Vault</text>
+          <text x="85" y="75" font-family="monospace" font-size="11" fill="#94A3B8">Zero-Knowledge Password Manager &amp; Vault</text>
           
           
               <rect x="85" y="95" width="58" height="20" rx="10" fill="#1E293B"/>
@@ -163,7 +163,7 @@
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#F8FAFC">Zoomcab_</text>
-          <text x="85" y="75" font-family="monospace" font-size="11" fill="#94A3B8">Real-time Ride Hailing & Fleet Tracker</text>
+          <text x="85" y="75" font-family="monospace" font-size="11" fill="#94A3B8">Real-time Ride Hailing &amp; Fleet Tracker</text>
           
           
               <rect x="85" y="95" width="65" height="20" rx="10" fill="#1E293B"/>
@@ -200,7 +200,7 @@
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#F8FAFC">CareerLogic-AI_</text>
-          <text x="85" y="75" font-family="monospace" font-size="11" fill="#94A3B8">AI Resume Analyzer & Assessment System</text>
+          <text x="85" y="75" font-family="monospace" font-size="11" fill="#94A3B8">AI Resume Analyzer &amp; Assessment System</text>
           
           
               <rect x="85" y="95" width="51" height="20" rx="10" fill="#1E293B"/>
