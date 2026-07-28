@@ -40,12 +40,38 @@
 
   <br/><br/>
 
-  <!-- SLEEK TERMINAL SOCIAL FOOTER BADGES -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/social_footer_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/social_footer_light.svg">
-    <img alt="Social Contact Links" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/social_footer_dark.svg" width="100%">
-  </picture>
+  <!-- INDIVIDUALLY CLICKABLE TERMINAL SOCIAL BADGES -->
+  <a href="https://www.linkedin.com/in/gurud132" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_linkedin_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_linkedin_light.svg">
+      <img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_linkedin_dark.svg" alt="LinkedIn" height="46">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dguru5079@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_email_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_email_light.svg">
+      <img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_email_dark.svg" alt="Email" height="46">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Guru006-Dev" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_github_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_github_light.svg">
+      <img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_github_dark.svg" alt="GitHub" height="46">
+    </picture>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Guru006-Dev" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_portfolio_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_portfolio_light.svg">
+      <img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_portfolio_dark.svg" alt="Portfolio" height="46">
+    </picture>
+  </a>
 
   <br/><br/>
 
