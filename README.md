@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Guru.D Banner" src="dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/light.svg?v=2">
+  <img alt="Guru.D Banner" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg?v=2" width="100%">
 </picture>
 
 <br/><br/>
@@ -33,9 +33,9 @@
 
   <!-- PROJECTS LIST CARD -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="projects_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="projects_light.svg">
-    <img alt="Projects List" src="projects_dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_light.svg?v=2">
+    <img alt="Projects List" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg?v=2" width="100%">
   </picture>
 
   <br/><br/>
@@ -51,9 +51,9 @@
 
   <!-- CONTRIBUTION SNAKE -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg?v=2" width="100%">
   </picture>
 
 </div>
