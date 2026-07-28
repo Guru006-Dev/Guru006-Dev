@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg?v=100">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/light.svg?v=100">
-  <img alt="Guru.D Banner" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg?v=100" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg?v=500">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/light.svg?v=500">
+  <img alt="Guru.D Banner" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg?v=500" width="100%">
 </picture>
 
 <br/><br/>
@@ -33,27 +33,27 @@
 
   <!-- FEATURED PROJECTS GRID CARD -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg?v=100">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_light.svg?v=100">
-    <img alt="Projects List" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg?v=100" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg?v=500">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_light.svg?v=500">
+    <img alt="Projects List" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg?v=500" width="100%">
   </picture>
 
   <br/><br/>
 
   <!-- SLEEK TERMINAL SOCIAL FOOTER BADGES -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/social_dark.svg?v=100">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/social_light.svg?v=100">
-    <img alt="Social Contact Links" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/social_dark.svg?v=100" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/social_dark.svg?v=500">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/social_light.svg?v=500">
+    <img alt="Social Contact Links" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/social_dark.svg?v=500" width="100%">
   </picture>
 
   <br/><br/>
 
   <!-- CONTRIBUTION SNAKE -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg?v=100">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake.svg?v=100">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg?v=100" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg?v=500">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake.svg?v=500">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg?v=500" width="100%">
   </picture>
 
 </div>
