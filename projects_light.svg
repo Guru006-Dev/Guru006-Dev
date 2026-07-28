@@ -9,19 +9,8 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/Pariksha</text>
           
-          <!-- 3D Colorful Logo Icon -->
-          <g transform="translate(20, 42)">
-            
-              <defs>
-                <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#0284C7"/>
-                  <stop offset="100%" stop-color="#22D3EE"/>
-                </linearGradient>
-              </defs>
-              <rect width="50" height="50" rx="12" fill="url(#g1)"/>
-              <path d="M25 10L14 15v8c0 7.55 4.7 14.6 11 16.35 6.3-1.75 11-8.8 11-16.35v-8L25 10zm-2 21l-6-6 2.12-2.12L23 24.76l8.88-8.88L34 18l-11 13z" fill="#FFFFFF"/>
-            
-          </g>
+          <!-- 3D Glossy Embedded Icon Image -->
+          <image x="20" y="42" width="50" height="50" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAERklEQVR4nO2dTUtUURjHz2M3I8Vwo0Zgi8agbKObUEFGDVoEhrvexj5AbfwEIW1rYZs+QGqvtDGIapHOxplWLaJXdRFE4As1BJqUZMyduXrHuaPO3HPv+cv9/+DOYWR45pzz53me85xz7yjr6+tKJ/F77/Ua3AMkr54SXbbEryBRFCBIgSoWJD5KIXYiOVi+MGULEh/9QI8ok+RgqwQiSHyMYlRKMrE7UXYlCIUIT5gdBYmPf2SI0kzyykmpSJCe+xQjKKYue4tSUpCeBxQjaKYuFYtS5fVBihEOXvNseX1QW9lJyqYoZPU+/MQkHjKTF0+IpyC9jyiGKSYv5EQpCFkiDFam2UjqfY8/M1QZxJl/z1UWMYedQ/qefKF3gJDLIUwdaIJQEShBKAcOVWeezjB/AGHRPbCwmD6woIeAYTGlY2FxhYWFxRoEC+YQMCgIGEzqYNBDwOB5CBis1MGwUgsrqrOpxnQ/iDupp+Z/228ojDlS8yvFIStNbzEmhqNDUaWeWsh7S6PZMDZ4vF4lWuq12x2bzajRmYxCIJsubFwalFz2phbzHzYozrXp72ru1x9t9mKHqlVXdiwCIEIWqXCVlc6LE6owkuuvzvMaceyKOSF2+u6yKvVww5nY1+zYnYm5sZFnOiy2tbU1Nw4MtL8cHp6IJYb6WxJD51VoHiHBVeqhhTPJNV13n9+oi7U2+zUXq6tWscYa1dV4um1++tXboELXTmEp0MLQCWdZOhqiW8+kXfPgZ061noekl3IhzaGj4aDfiKUKLr9otJleLByrrnn0fGBHF1s77UsgwxQJEBBWmI8gvFlaLfpbKZHEfpHNVkc/3fa2efzCa/LDmifj2+9bw5xDz+Fa9S6zGkjIytr9u7Kmlkp8t8k5MS5ISSTXfFtZU/M/V9W+UpNXBstr/9TR2v2b9gHHHmrIKhfJ9y3b6uin2567RYIHVGDg3gYkUnwh2ozKiaE48+eaR9823fZAH4vBTuqCWxhGL2TZOH3TFV5c9uwGb+xM6mDgLnulMPnqqtS124xMDtkaYQKIWIhjxxVEIprUEd3We9mro1Lfahdv7EzqYOAueyUfUwpa30YL7QGOHbZSz+L0TWel7tUiwaQOBvgDOxK5dS9syBKl1OvuI0p1j2i9d+r2TIabi5VwazZjX8vjIxMHOs+2W8f835e1AXIdApnZCghgRaR15RaRkLWBKPXj+rmbSjO1iaF+xLFL04uv/HkmIHCXvREFP2RFjD2Q1KMFQxYYVv5uVwICPQQMCgIG7IlhVKGHgAG+/R496CFgsFIHg5U64G1ATCJAMGSBwZAFBldZoJV69oUnh+YR3tsLHLLoJWaxleDmInhSp5eYQbZb9lKUcCkQgP9hZ4/UIfSScJByKnWKEixSyV4WRQkG8bOXRVH0Ijp+BNMxwu2VypEgtt/pLZUhQW6/01t2j4S5/U5hlD4hHP4Dty36+YrDUbMAAAAASUVORK5CYII="/>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">Pariksha_</text>
           <text x="85" y="75" font-family="monospace" font-size="11" fill="#64748B">Secure AI Examination &amp; Anti-Cheat Portal</text>
@@ -55,19 +44,8 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/HealthHub</text>
           
-          <!-- 3D Colorful Logo Icon -->
-          <g transform="translate(20, 42)">
-            
-              <defs>
-                <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#7C3AED"/>
-                  <stop offset="100%" stop-color="#A78BFA"/>
-                </linearGradient>
-              </defs>
-              <rect width="50" height="50" rx="12" fill="url(#g2)"/>
-              <path d="M34 13H16c-1.65 0-3 1.35-3 3v18c0 1.65 1.35 3 3 3h18c1.65 0 3-1.35 3-3V16c0-1.65-1.35-3-3-3zm-2 12h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#FFFFFF"/>
-            
-          </g>
+          <!-- 3D Glossy Embedded Icon Image -->
+          <image x="20" y="42" width="50" height="50" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAELUlEQVR4nO2cTUhUURiGz9GbuFEKCgTHiBbpwmJcRbvZtckQyr2oG/uVIgSDsEBpFf3nQs1WbWqjgS1tFYHQoiC1XTgSRAVpRA3jxJ1xnDvOz/07955X7/vAeBCGz3u/d77vPT/XkZlMRqhkYuCX2oA7gP4njVJVLOlXkCgKEKRAngWZOEch7Oh/7F4Y14JMnqcQbul75FwYV4JMXqAYXul76EwUR4JQiPCEqbELQDHUYpfPqhUydZEtKih6H5SvlIqCTF1a43Q2YHrvN0hHgkxdphhh0XuvWBSj3JuULTuJa0pM/SmrI1S257uoZU0PslXpoudurnUVtyz2Ku1sVcj0FVaHbnruNMhChbA6cCpk+uo61xwgZCuExYFDrmVREbAKoSAwyGfXOLtCwmBxYGF7HkLCxaChY2HQ0bFghYBBUweDpg6GwUUhFvQQMCgIGDR1MGjqYBjJpbSItdXqvg5i9ZCVpXT2Fwqjj5XFdOm016yWZlZL6CQX01s7WCWzLFMUE93CHE3UifbEHuVxP86nxIf5fwJFiCzS5lHSojdrFOf1+B/x8+uGsnj7mmpErK3iLYeCNa+eV+qr+appDVcYqfi4Px9Lx6FcvvPY5dvV9ntyeSM8YWTu6l+8GZt5OT82qyJkPB5v6erq6hi5OTJzJjHceTZx/bQISQinefa0l7W6bGlnAYkjN3+Y4+2BtzcONR1r8Rtzr9myWmtF/cDJ+MKn2fdB7eNtieDhARLfWyfJoMSRZV6IMcuI4Ceu0t1ea+WYNB+pVdbzpa9IpfGso98PYjaWojwGOuVIKhZIJ9vvZVfs9iY/l96UY5Gk+uupFLNs8mVEDqhWy4hkcrDdEN++pAPxEDPu2o9Mxb+tMyfY5yFSiLXvmWwC69b9t4zU34xo3F+jd0FigyF1l0gFpDnlldIy+r/O4ni5EQ2eh4Ch3UOqITevLfdpVhvPOiKB6yFyZy0Md78gGqe9OoFtWVKWvhBjqoamDgbstFdkt3o3G72iaa81njki3juuh8iImjrgh8R6PlUYVXnIthEN7AoxUb3NoXpPXzE0dTBgW5YJV+pISJo6FDK6pg54VRFWBNpDuofqRffQqNJnpxbmUoWJFuC9632u0iZxC3Mp8erd6Ez8cGdH7ID/57J2ArjrkDxBrKq5UveXu9HnJ24JxZw6PtyJ2LLk+OBvfr0fENCmHkW4dQIG8HlINMGfZUUMCgIGTR0MmjoYrBAw6CFgcNoLBisEDJo6GDR1wJZlrtW54wsCKwQMmjoYrBAwjMLXvNBHAJBsWcAti1Wil6wSrBBwU2eV6EFW2zrhoW64FOWb014wKnkIW1c4SDf/jkBRgqVs4u1aFkUJBunnPIQmr5aq+XRq6vl3cZveO44y7XZhyBbmDcdZ9jLtZbU4x3V2/WydUBihTog8/wEl7v1+zHkSkwAAAABJRU5ErkJggg=="/>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">HealthHub_</text>
           <text x="85" y="75" font-family="monospace" font-size="11" fill="#64748B">Healthcare Telemedicine &amp; Records Platform</text>
@@ -101,19 +79,8 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/SecurePass</text>
           
-          <!-- 3D Colorful Logo Icon -->
-          <g transform="translate(20, 42)">
-            
-              <defs>
-                <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#059669"/>
-                  <stop offset="100%" stop-color="#10B981"/>
-                </linearGradient>
-              </defs>
-              <rect width="50" height="50" rx="12" fill="url(#g3)"/>
-              <path d="M33 20h-2v-4c0-3.87-3.13-7-7-7s-7 3.13-7 7v4h-2c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V22c0-1.1-.9-2-2-2zm-9 12c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm4.1-12H18.9v-4c0-2.81 2.29-5.1 5.1-5.1 2.81 0 5.1 2.29 5.1 5.1v4z" fill="#FFFFFF"/>
-            
-          </g>
+          <!-- 3D Glossy Embedded Icon Image -->
+          <image x="20" y="42" width="50" height="50" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAADz0lEQVR4nO2cO2gUURSG71kGq6QRk4gYdLOmT5oVos0uaRQSt7LyUdoFfIDYSLDQykdlK1ELEYS4CdoYt5ERbUQLbUzWwhfZSAKSCMEQ2TGTzD4zjzszf5j/g2ESspzdOT/nP/fcmaysr68rneQmb+oNuAMoFS6KrlgSVJAkChCmQL4FoRDhCONZEAoRrjApL4Ephj+85M1VheQmb7FPaKJUuCCBBMk9pRi6KZ1oLUpby6IY4dAury0FoRjh0iq/TS0rV7zNnhERpdHzNfZlNHuRtrGTeKbBsvKsjkipz3eNZeWnaFVx8XLkv3XVWRbNCsay8lN32MhjxM7/VoWwOCCwekh+mtWBgqfNRRI+FAQMCgKG5KY5eyBhcHmFBS0LDIPzBxasEDDYQ8CgZYFBywLD4J4iFqwQMNjUwWCFgMFVFhgpc34u7s9A6nuIOV+2fhnqTjv/RiLE1iBl7WVtHGalvPkzDxVZDpx5b3hyEaVazh46rM5kstrj3p99qyY+v1EI2Ll2NRi+drw4LnHOmY/U7O+KtniZzi51pKcv1g1upwjNPoehZPuPZ1a+xCOMVA+N6bND6YzpVYht3tvwEzRKYeYePCuWHz6f0hHr18BA775CYXBmfLyYPnVspO/08VEVgy1pn0OsJrTBUFf44mTvXr7amdnfGzROpnOPSnf3qWz3n4GK+eGdCglnfrzm19D55lGIg0qNCCh7WXav0SOQNDmCoi9mowCCv3ViLpT9CyRYejQIEFLeAltW0LJGtDlTk/3AC+Ll4nN7+9X7xW+hvGc17tryovoZY+JbYUgMa3I3iIh1fF1ZUj+WvqvUwt/AMZfXVtWBjt2bsRGvnfdDwKAgYGDfoBLHWdcqq9kZCPB76pI4RWhZYOBalrQ464wLeO2sEDAoCBiwg6FS9uCmb4hzxts6Y8EKAYOCgIG9yhKc7feo4GAIBm6FJHNQZw9Bg00dDFcPysWCiDKHx5QaHtP67NT1TzNbD+ABXjvs/xje+PjCOlYfvyoa2f7B1MGewM9l2QAvsmhZaGCvsjZYuXTvmtLMrpNHRxCvXTqeXOGXXwLBVRYYO8KykgQrBAzwvazkQcsCA3YwTCrsIWDg7mUlFFYIGBQEDK6ywGCFgMGmDlghXGYBwcEQDDZ1MLi5CLrKYh/BQGhZwHMIqyRerPyzh4BRb1nV3/gUSvRIu60TWle01OSbg+EO2cuidUWDeNntpXWFi/jZfqco4dAyr24GQ9qXXtpm3O0cYr+IS2L/SBh3DGlh/nCdNz97WawW90iU30pKYZQ+IWz+AccC6wh0oixUAAAAAElFTkSuQmCC"/>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">SecurePass_</text>
           <text x="85" y="75" font-family="monospace" font-size="11" fill="#64748B">Zero-Knowledge Password Manager &amp; Vault</text>
@@ -147,19 +114,8 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/NitroStack</text>
           
-          <!-- 3D Colorful Logo Icon -->
-          <g transform="translate(20, 42)">
-            
-              <defs>
-                <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#D97706"/>
-                  <stop offset="100%" stop-color="#F59E0B"/>
-                </linearGradient>
-              </defs>
-              <rect width="50" height="50" rx="12" fill="url(#g4)"/>
-              <path d="M16 11v14h5v14l13-18h-7l7-10z" fill="#FFFFFF"/>
-            
-          </g>
+          <!-- 3D Glossy Embedded Icon Image -->
+          <image x="20" y="42" width="50" height="50" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAADvElEQVR4nO2dy08TURTG721vbHwkRrdQAolLVNiw0MREVrrAwJoFK9F/oFtDjGzsyp3PBX8BSYnRFe6QjfGxNtGkrYSQSEKEhKlYQ7XjTJ/zuHfuV+f7JWV4ng7n63fOvWeGIOv1utBJ+fG03oADQP7uutQVS8YVJI0CmBQosiAUwowwoQUpP6EjwpK/E1yYUIJUKEZkhgOKEkgQCpGcMH0FqTxlidLN8GJ3UTK9fpBimKFXXrsKQjHM0i2/HQWhGMnQKc89SxZJnramXn3GJp40Q7f/NXmfQyiGHbx5V76vaBuRkai4Dqk+Z6mySTP/rkNoDqCm/u0F3YECl71gNEoWyxUOdAgYmS32DygU6xUWiv0DC/YQMFiywKBDwKBDwKBDwKAgYHDZCwYdAgabOhh0CBjKKW+IXP6K7fMg3pJ1WNlofEBh7HFY3mgvWc1PkmTx5l3JlnGvA+KW05cXxKlLC9rjHnxaEfsfVwSSEF4NVL9vtinO7stF8fP7Z23x1PkLIpe/KmzSrwqpMEFsu2aQCdoOQu1D3OY/nJwwxdUvpeLq1zUdsSYmdvOzs0OTS0tvSoW50ZnC3NgtYZhmzoLmWckI13Cdylv3/RPGxJHuY/3B1L3xkTN5PSVrTFxTUxOv3u28N3W/TbMPHxM2v0rnk5sTBx9vHmBGJ07Vf1JaBZL6QumI2SaAHIBpb60STyDpOeo4T9nlGEUA+T8MF1sd1FMk2eERl4AxO5afhPIUu4eYqr250WlR2/5g5DmP4x7t/RJOZUugYV2QfhztlUVtuyqcbPzBdN35IbJnRwQybaMTFOTfkYJ71HCevngtIwsUeD0EDNwrhtJeU7cJ9E0OEmjZmxQsWWDglqyUWoQOAQN32Sv/vIJ9x9hB/fEQf3c6BAwKAgZ2Uwcev5uC+xAwcB0iU7pThzyrFG9EYEuWTKdBgEtWOg2CfYHq3PymeDgvtN47dbC5LJCBFWR/c7nxKL6ulW5ezE6OD2Vi35c1CMCOTlwMjDm0jmPS4hAv14uH94VmCjfUjABE7jw6yf+QAwTssjetcLgIBvY+JIXQIWDgL3tTBh0CBgUBgyULDDoEDC57waBDwODoBAwFOYNOecmiIkCwh4DBfQgYdAjoPuT4La8c2kdy2Qtcsrjasksj/xydgDd1usQOsteylw0+WXwKcNkLRjdBWLqSQYbZqbN0maVj5vuVLDrFDF3zGmTZS6foReq4+70ZhOOV6ASqNmFHJ3RLNAKnOcpOnW4JjkzyD3YojNAnRJPfHJTweRgKii0AAAAASUVORK5CYII="/>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">NitroStack_</text>
           <text x="85" y="75" font-family="monospace" font-size="11" fill="#64748B">High-Performance Full-Stack Starter Engine</text>
@@ -193,19 +149,8 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/Zoomcab</text>
           
-          <!-- 3D Colorful Logo Icon -->
-          <g transform="translate(20, 42)">
-            
-              <defs>
-                <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#2563EB"/>
-                  <stop offset="100%" stop-color="#60A5FA"/>
-                </linearGradient>
-              </defs>
-              <rect width="50" height="50" rx="12" fill="url(#g5)"/>
-              <path d="M34.84 17.02c-.34-1.01-1.29-1.72-2.42-1.72H17.58c-1.13 0-2.08.71-2.42 1.72L12 25v13c0 .92.75 1.67 1.67 1.67h1.67c.92 0 1.66-.75 1.66-1.67v-1.67h16V38c0 .92.75 1.67 1.67 1.67h1.67c.92 0 1.66-.75 1.66-1.67V25l-3.17-7.98zM18.42 18.67h13.16l1.75 5H16.67l1.75-5z" fill="#FFFFFF"/>
-            
-          </g>
+          <!-- 3D Glossy Embedded Icon Image -->
+          <image x="20" y="42" width="50" height="50" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAEHklEQVR4nO2dz0sUYRjH38emoIsFBQVlRtCtdMW89AfUIRVPQmla/0H0EzyUBAr9soigs6V267DaoXOQhxJxt1tBah0s6mAQhWtj7Dirs7/Gdeadme863w8Mg4v77Lzvd58f7zOvo6ysrCidnL2zqNdgFfDixi7RZUv8ChJHAYIUyLMg5yjEhox5EGbTglCIYIXZlCBddxmevDJ6vTJRKhKk6x6F0MXoNXdhNhSkm2JoZ8RFFFdBuu/TM4Ji5GppUcoK0v2AYgTNyJViUUoKcp5ihMbzAlFqwvtoUglFHtIzxFAVNs8ur3tJniC9FCMyhm1RjLxXtbXIiFfWPKT30S82CSNm+FKtMKkjesgFegcMVg4R5g4YGLLAoIeAIRcfs7pCgiELDAoChsEKCwuDFS8WBvtXWDBkgWGwxYsFcwgYzCFgcB0CBpM6GAxZYBip2WXVeDj/1jqJDkNEVGrun/UDhYmOmdll61xjrdTtY2Zu9UUSLta82xoUrUNStigN9dGGsdbmHepM83btdl9NZdTE1JJCIDfXUklST82ve0sk4ohSAy//qK8/TW0mD+6pUYlsvpToRbAQj2Vv2hYnbGFE9G7AyNmK4pbDmjeIxtZJOsRwJvbxPjmYfDc+OK7DZiKRqMt0dDQ97e9PtrT1tbW097WrCMKSG4aXr0tqfrUqy9JQv00Fgqwfnbfe3txb11CnI2Q11huqc+VU4vP0xHRQoStXtVpscn59r9TTTnEO6RVHHGfRbM951oHzS+pnTrXGHudFBSEQEoVjrYpeVvpL/kUf9yOQ+L8ePzadkcB6q2yBXlahQK4iSYnDLxXaLJz8tffG4QbVhzKuf+KIqT4tmIHokbX7Y9Es+9lRzgls+13ssPB90VTmN1MtiP+Y/Tej1P7d5ur6BnSTuaeyNxTEMWu6Zq/QHuDYIw9ZW6Xsjd8NKqkSm1s2h0jxgWgzViErhg4CHrIkfkkE1kMkunVhpACXvUp/iRpEKR2XpF54Q0mXHqXOSDBkgYGb1KXMWaddwLEzZIHBzdaIOxcRETuT5539G82zhzh23ByShQtDLCR+C3XcpC6i1JOenUr1DGjdOzU2mcFuLkJ+TZRSo5NL1vHx9WBy37HWptoD/vdlFQE4dtiFoRPdSwbokAV5VU5EqTdDJ28rzRw93deGOHZpffibD78EoipCVpzAD1kxA7bsjSvsZYFBDwGDgoDBxzOBQQ8Bg2UvGFwYgsGQBQZDFhiGsHcC5yHZ5gk7viAwh4DBXhYY9BBQQZhHMOC/zUPeSkoviRZLCC4MwXtZ9JJoELcqi6KES54CDFlV0n6nl4RD0fS7eQhFCRbx8hdUFCUYxM8dQ4qiF9cprzSp536LbXrvSBDNRXqLNyTI5/bSWypHwmy/UxilT4gc/wFJHwI4V6vYjgAAAABJRU5ErkJggg=="/>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">Zoomcab_</text>
           <text x="85" y="75" font-family="monospace" font-size="11" fill="#64748B">Real-time Ride Hailing &amp; Fleet Tracker</text>
@@ -239,19 +184,8 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/CareerLogic-AI</text>
           
-          <!-- 3D Colorful Logo Icon -->
-          <g transform="translate(20, 42)">
-            
-              <defs>
-                <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#DB2777"/>
-                  <stop offset="100%" stop-color="#F472B6"/>
-                </linearGradient>
-              </defs>
-              <rect width="50" height="50" rx="12" fill="url(#g6)"/>
-              <path d="M25 10l4.47 10.53L40 22l-8.68 7.53L33.94 40 25 34.07 16.06 40l2.62-10.47L10 22l10.53-1.47L25 10z" fill="#FFFFFF"/>
-            
-          </g>
+          <!-- 3D Glossy Embedded Icon Image -->
+          <image x="20" y="42" width="50" height="50" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAEJUlEQVR4nO2cy2sTURTG76lDCxWhLkRMUnHfKKmr7sSdCrVZ6EKsFmur/gPdanGZrtz5rNbHyi6kgq+NW8WFBRNXumuaRQQFsdhEieQxcZJJmmRyZ+ZL5/tBmJaGkzv345yT756hUigUlE7Wzt7UG7AHiDy5IrpiSbeCBFEANwVyLMja5C0K0YLI48viuiAUwl1hOhJk7dxtZoVDIo8uiTZB0hRCG+EWwrQUJH2eWaGb8MPmomwpSHrqDkuUS4SXZqUjQdan7lIMlwktzdhE6Wv0RorhDY322Wj4TtFmPEmH2ErW+oV7LFUeE7p/URoKkpmmGH6xb7EsSl3JYqnym2pTz0wvslT5iLn//zOEjRyCUg/JzDxgdoBQyhB2DhzKJYuKwEBBwJDMLPsHEgbrFRYG+wcWBv0HFgb9IBYN5yHEP9jUwWAPAYM9BAyWLDDoQ8BghoDBHgJG3+antN9rIPVfezeT66VfBg6GrX8jHmImRo0PKQpDUXwSo6KDrYfkkmWl+qP+ZsvO41E1eGxEe9yNVyn162VSIWDutVWDpt+ycpUy5qc43xNv1J/0D23xjPCQGjgU9nVmbYpQRpz5kFzKp6wRzXtnxhIfhRCNZ1m5VDlr+qMh5ZUYC++friy8W36uI2QsFhuOx+Oj8zfmV+bGTo3PjZ0+qVymWmna3GdDHAxE8qlM9Wf3xBFVXpuot5OJq9E9B4Z1lKxilh+ZHIy9+PLho5N7bwdrue/0MwydH+5J5oBi3QeY4/ecJXO6FkgqaV69alhnTbzuHp+1CaBpH12dh9gEGgk56Oiisbs7j2n2z/+hpPfPsvKf7WndTCSpf+lIkDZj2jbfw2fRfT/trc8ik4HRYZX/mlVuUIz7N/uz6Wf7uSfY8xBRpY3L92VV7ttA1+EKv/Nqx95dvvqR3p2pi9hfiDE148iHeIVU1la86linNZ71igSfywKDJQsMXEGKmGvT2UMaXYGAnamLS3unW+Nt50OaI02uOuPi3TtLFhi4xlCgjrI8A9iHSHUeoteH1MZFgz4EDNweItjzkOAJouqKvZZ1uhEzQD5Egne2iOxD6nFjnXj3jl2yxFJatB2d1MUFA9qH7E5MqERiQuuzUxvLq/QhTjduY3lVJZLPVk5EDo9Gh/Z3/VyWCechZDv0kAoi6ujra9eVZuai8XHEe5fsmSX+ez8gYH1IUOkhHxIM8HtIwMD1IQEFeB4STDgPAYM9BAwKAgZ9CBj0IWCwZIFBHwIGfQhgDyk6Q574gsCSBQabOhgGT7IwM4R9BANhyQJu6swSfykpQR8CfpbFLPEH2cqHUBRvqVGATb1H5iHMEm+QTuYhFMVdGm58q5JFUdxBujlcpCh62XLH2/Uh5pt4TO8ccWOmzmxxhrg5D2G2tE/Hu9uND6EwSp8QJv8AKmP9Ye3N3dgAAAAASUVORK5CYII="/>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">CareerLogic-AI_</text>
           <text x="85" y="75" font-family="monospace" font-size="11" fill="#64748B">AI Resume Analyzer &amp; Assessment System</text>
