@@ -108,52 +108,22 @@
 
   <g id="info">
     <text x="480" y="65" font-family="monospace" font-size="12" fill="#22D3EE" font-weight="bold" letter-spacing="2">SYSTEM.INFO</text>
-<text x="480" y="95" font-family="monospace" font-size="10.5" fill="#22D3EE">Subject</text>
-<text x="608" y="95" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . . . . . . . . </text>
-<text x="1152" y="95" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Guru.D</text>
-<text x="480" y="117" font-family="monospace" font-size="10.5" fill="#22D3EE">Role</text>
-<text x="608" y="117" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . </text>
-<text x="1152" y="117" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Final Year CSE Student</text>
-<text x="480" y="139" font-family="monospace" font-size="10.5" fill="#22D3EE">Origin</text>
-<text x="608" y="139" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . . </text>
-<text x="1152" y="139" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Vellore, Tamil Nadu</text>
-<text x="480" y="161" font-family="monospace" font-size="10.5" fill="#22D3EE">Education</text>
-<text x="608" y="161" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . </text>
-<text x="1152" y="161" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">B.Tech CSE - Amrita VVP</text>
-<text x="480" y="183" font-family="monospace" font-size="10.5" fill="#22D3EE">Status</text>
-<text x="608" y="183" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . </text>
-<text x="1152" y="183" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Debugging Life . One Commit at a Time</text>
-<text x="480" y="205" font-family="monospace" font-size="10.5" fill="#22D3EE">ToolChain</text>
-<text x="608" y="205" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . </text>
-<text x="1152" y="205" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">VS Code, Git, Docker, Figma, Playwright</text>
-<text x="480" y="235" font-family="monospace" font-size="10.5" fill="#22D3EE">Core.Lang</text>
-<text x="608" y="235" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . </text>
-<text x="1152" y="235" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">TypeScript, Java, Python, C, C++</text>
-<text x="480" y="257" font-family="monospace" font-size="10.5" fill="#22D3EE">Core.Frontend</text>
-<text x="608" y="257" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . </text>
-<text x="1152" y="257" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">React, Flutter, Vite, Tailwind</text>
-<text x="480" y="279" font-family="monospace" font-size="10.5" fill="#22D3EE">Core.Backend</text>
-<text x="608" y="279" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . </text>
-<text x="1152" y="279" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Node.js, Express, Redis, Socket.io</text>
-<text x="480" y="301" font-family="monospace" font-size="10.5" fill="#22D3EE">Core.Database</text>
-<text x="608" y="301" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . </text>
-<text x="1152" y="301" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">MongoDB, PostgreSQL, Firebase</text>
-<text x="480" y="323" font-family="monospace" font-size="10.5" fill="#22D3EE">Core.Infra</text>
-<text x="608" y="323" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . </text>
-<text x="1152" y="323" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Docker, AWS, k6, Gemini API</text>
+<text x="480" y="95" font-family="monospace" font-size="10.5" fill="#22D3EE">Subject</text><text x="618" y="95" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . . . . . . . . </text><text x="1152" y="95" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Guru.D</text>
+<text x="480" y="117" font-family="monospace" font-size="10.5" fill="#22D3EE">Role</text><text x="618" y="117" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . </text><text x="1152" y="117" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Final Year CSE Student</text>
+<text x="480" y="139" font-family="monospace" font-size="10.5" fill="#22D3EE">Origin</text><text x="618" y="139" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . . </text><text x="1152" y="139" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Vellore, Tamil Nadu</text>
+<text x="480" y="161" font-family="monospace" font-size="10.5" fill="#22D3EE">Education</text><text x="618" y="161" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . </text><text x="1152" y="161" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">B.Tech CSE - Amrita VVP</text>
+<text x="480" y="183" font-family="monospace" font-size="10.5" fill="#22D3EE">Status</text><text x="618" y="183" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . </text><text x="1152" y="183" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Debugging Life . One Commit at a Time</text>
+<text x="480" y="205" font-family="monospace" font-size="10.5" fill="#22D3EE">ToolChain</text><text x="618" y="205" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . </text><text x="1152" y="205" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">VS Code, Git, Docker, Figma, Playwright</text>
+<text x="480" y="235" font-family="monospace" font-size="10.5" fill="#22D3EE">Core.Lang</text><text x="618" y="235" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . </text><text x="1152" y="235" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">TypeScript, Java, Python, C, C++</text>
+<text x="480" y="257" font-family="monospace" font-size="10.5" fill="#22D3EE">Core.Frontend</text><text x="618" y="257" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . </text><text x="1152" y="257" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">React, Flutter, Vite, Tailwind</text>
+<text x="480" y="279" font-family="monospace" font-size="10.5" fill="#22D3EE">Core.Backend</text><text x="618" y="279" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . </text><text x="1152" y="279" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Node.js, Express, Redis, Socket.io</text>
+<text x="480" y="301" font-family="monospace" font-size="10.5" fill="#22D3EE">Core.Database</text><text x="618" y="301" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . </text><text x="1152" y="301" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">MongoDB, PostgreSQL, Firebase</text>
+<text x="480" y="323" font-family="monospace" font-size="10.5" fill="#22D3EE">Core.Infra</text><text x="618" y="323" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . </text><text x="1152" y="323" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Docker, AWS, k6, Gemini API</text>
 <text x="480" y="353" font-family="monospace" font-size="10" fill="#64748B">- Contact</text>
-<text x="480" y="373" font-family="monospace" font-size="10.5" fill="#22D3EE">Grid.Mail</text>
-<text x="608" y="373" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . </text>
-<text x="1152" y="373" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">dguru5079@gmail.com</text>
-<text x="480" y="395" font-family="monospace" font-size="10.5" fill="#22D3EE">Grid.Portfolio</text>
-<text x="608" y="395" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . . </text>
-<text x="1152" y="395" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">coming soon</text>
-<text x="480" y="417" font-family="monospace" font-size="10.5" fill="#22D3EE">Grid.LinkedIn</text>
-<text x="608" y="417" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . </text>
-<text x="1152" y="417" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">linkedin.com/in/gurud132</text>
-<text x="480" y="439" font-family="monospace" font-size="10.5" fill="#22D3EE">Grid.GitHub</text>
-<text x="608" y="439" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . . . </text>
-<text x="1152" y="439" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">@Guru006-Dev</text>
+<a href="mailto:dguru5079@gmail.com" target="_blank" style="cursor: pointer;"><text x="480" y="373" font-family="monospace" font-size="10.5" fill="#22D3EE">Contact.Mail</text><text x="618" y="373" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . </text><text x="1152" y="373" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">dguru5079@gmail.com</text></a>
+<a href="#" target="_blank" style="cursor: pointer;"><text x="480" y="395" font-family="monospace" font-size="10.5" fill="#22D3EE">Contact.Portfolio</text><text x="618" y="395" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . </text><text x="1152" y="395" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">coming soon</text></a>
+<a href="https://www.linkedin.com/in/gurud132" target="_blank" style="cursor: pointer;"><text x="480" y="417" font-family="monospace" font-size="10.5" fill="#22D3EE">Contact.LinkedIn</text><text x="618" y="417" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . </text><text x="1152" y="417" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">linkedin.com/in/gurud132</text></a>
+<a href="https://github.com/Guru006-Dev" target="_blank" style="cursor: pointer;"><text x="480" y="439" font-family="monospace" font-size="10.5" fill="#22D3EE">Contact.GitHub</text><text x="618" y="439" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . </text><text x="1152" y="439" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">@Guru006-Dev</text></a>
 <text x="480" y="588" font-family="monospace" font-size="10.5" fill="#22D3EE">▸ More about me &amp; projects below in README ↓</text>
   </g>
 </svg>

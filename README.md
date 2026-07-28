@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/light.svg?v=2">
-  <img alt="Guru.D Banner" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg?v=2" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/light.svg?v=3">
+  <img alt="Guru.D Banner" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg?v=3" width="100%">
 </picture>
 
 <br/><br/>
@@ -31,29 +31,35 @@
 
   <br/><br/><br/>
 
-  <!-- PROJECTS LIST CARD -->
+  <!-- FEATURED PROJECTS GRID CARD -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_light.svg?v=2">
-    <img alt="Projects List" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_light.svg?v=3">
+    <img alt="Projects List" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg?v=3" width="100%">
   </picture>
 
   <br/><br/>
 
-  <!-- TERMINAL SOCIAL FOOTER BADGES -->
-  <a href="https://www.linkedin.com/in/gurud132"><img src="https://img.shields.io/badge/LINKEDIN-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F&color=A78BFA" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:dguru5079@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0A101F&color=A78BFA" alt="Email"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Guru006-Dev"><img src="https://img.shields.io/badge/GITHUB-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F&color=A78BFA" alt="GitHub"/></a>
+  <!-- CLICKABLE SOCIAL CONTACT BADGES -->
+  <a href="https://www.linkedin.com/in/gurud132" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F&color=A78BFA" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:dguru5079@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dguru5079%40gmail.com-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0A101F&color=A78BFA" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Guru006-Dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Guru006--Dev-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F&color=A78BFA" alt="GitHub"/>
+  </a>
 
   <br/><br/>
 
   <!-- CONTRIBUTION SNAKE -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake.svg?v=2">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake.svg?v=3">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg?v=3" width="100%">
   </picture>
 
 </div>
