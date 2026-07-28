@@ -9,9 +9,18 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/Pariksha</text>
           
-          <rect x="20" y="42" width="50" height="50" rx="10" fill="#22D3EE" opacity="0.15"/>
-          <g transform="translate(31, 53) scale(1.0)" fill="#22D3EE">
-            <path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/>
+          <!-- 3D Colorful Logo Icon -->
+          <g transform="translate(20, 42)">
+            
+              <defs>
+                <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#0284C7"/>
+                  <stop offset="100%" stop-color="#22D3EE"/>
+                </linearGradient>
+              </defs>
+              <rect width="50" height="50" rx="12" fill="url(#g1)"/>
+              <path d="M25 10L14 15v8c0 7.55 4.7 14.6 11 16.35 6.3-1.75 11-8.8 11-16.35v-8L25 10zm-2 21l-6-6 2.12-2.12L23 24.76l8.88-8.88L34 18l-11 13z" fill="#FFFFFF"/>
+            
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">Pariksha_</text>
@@ -46,9 +55,18 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/HealthHub</text>
           
-          <rect x="20" y="42" width="50" height="50" rx="10" fill="#A78BFA" opacity="0.15"/>
-          <g transform="translate(31, 53) scale(1.0)" fill="#A78BFA">
-            <path d="M19 3H5c-1.1 0-1.99.9-1.99 2L3 19c0 1.1.89 2 1.99 2H19c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-1 11h-4v4h-4v-4H6v-4h4V6h4v4h4v4z"/>
+          <!-- 3D Colorful Logo Icon -->
+          <g transform="translate(20, 42)">
+            
+              <defs>
+                <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#7C3AED"/>
+                  <stop offset="100%" stop-color="#A78BFA"/>
+                </linearGradient>
+              </defs>
+              <rect width="50" height="50" rx="12" fill="url(#g2)"/>
+              <path d="M34 13H16c-1.65 0-3 1.35-3 3v18c0 1.65 1.35 3 3 3h18c1.65 0 3-1.35 3-3V16c0-1.65-1.35-3-3-3zm-2 12h-5v5h-4v-5h-5v-4h5v-5h4v5h5v4z" fill="#FFFFFF"/>
+            
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">HealthHub_</text>
@@ -83,9 +101,18 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/SecurePass</text>
           
-          <rect x="20" y="42" width="50" height="50" rx="10" fill="#10B981" opacity="0.15"/>
-          <g transform="translate(31, 53) scale(1.0)" fill="#10B981">
-            <path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1 1.71 0 3.1 1.39 3.1 3.1v2z"/>
+          <!-- 3D Colorful Logo Icon -->
+          <g transform="translate(20, 42)">
+            
+              <defs>
+                <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#059669"/>
+                  <stop offset="100%" stop-color="#10B981"/>
+                </linearGradient>
+              </defs>
+              <rect width="50" height="50" rx="12" fill="url(#g3)"/>
+              <path d="M33 20h-2v-4c0-3.87-3.13-7-7-7s-7 3.13-7 7v4h-2c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V22c0-1.1-.9-2-2-2zm-9 12c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3zm4.1-12H18.9v-4c0-2.81 2.29-5.1 5.1-5.1 2.81 0 5.1 2.29 5.1 5.1v4z" fill="#FFFFFF"/>
+            
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">SecurePass_</text>
@@ -120,9 +147,18 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/NitroStack</text>
           
-          <rect x="20" y="42" width="50" height="50" rx="10" fill="#F59E0B" opacity="0.15"/>
-          <g transform="translate(31, 53) scale(1.0)" fill="#F59E0B">
-            <path d="M7 2v11h3v9l7-12h-4l4-8z"/>
+          <!-- 3D Colorful Logo Icon -->
+          <g transform="translate(20, 42)">
+            
+              <defs>
+                <linearGradient id="g4" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#D97706"/>
+                  <stop offset="100%" stop-color="#F59E0B"/>
+                </linearGradient>
+              </defs>
+              <rect width="50" height="50" rx="12" fill="url(#g4)"/>
+              <path d="M16 11v14h5v14l13-18h-7l7-10z" fill="#FFFFFF"/>
+            
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">NitroStack_</text>
@@ -157,9 +193,18 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/Zoomcab</text>
           
-          <rect x="20" y="42" width="50" height="50" rx="10" fill="#3B82F6" opacity="0.15"/>
-          <g transform="translate(31, 53) scale(1.0)" fill="#3B82F6">
-            <path d="M18.92 6.01C18.72 5.42 18.16 5 17.5 5h-11c-.66 0-1.21.42-1.42 1.01L3 12v8c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-1h12v1c0 .55.45 1 1 1h1c.55 0 1-.45 1-1v-8l-2.08-5.99zM6.85 7h10.29l1.04 3H5.81l1.04-3z"/>
+          <!-- 3D Colorful Logo Icon -->
+          <g transform="translate(20, 42)">
+            
+              <defs>
+                <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#2563EB"/>
+                  <stop offset="100%" stop-color="#60A5FA"/>
+                </linearGradient>
+              </defs>
+              <rect width="50" height="50" rx="12" fill="url(#g5)"/>
+              <path d="M34.84 17.02c-.34-1.01-1.29-1.72-2.42-1.72H17.58c-1.13 0-2.08.71-2.42 1.72L12 25v13c0 .92.75 1.67 1.67 1.67h1.67c.92 0 1.66-.75 1.66-1.67v-1.67h16V38c0 .92.75 1.67 1.67 1.67h1.67c.92 0 1.66-.75 1.66-1.67V25l-3.17-7.98zM18.42 18.67h13.16l1.75 5H16.67l1.75-5z" fill="#FFFFFF"/>
+            
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">Zoomcab_</text>
@@ -194,9 +239,18 @@
           <circle cx="20" cy="22" r="3" fill="#0891B2"/>
           <text x="32" y="25" font-family="monospace" font-size="11" fill="#64748B">Guru006-Dev/CareerLogic-AI</text>
           
-          <rect x="20" y="42" width="50" height="50" rx="10" fill="#EC4899" opacity="0.15"/>
-          <g transform="translate(31, 53) scale(1.0)" fill="#EC4899">
-            <path d="M12 2L9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2z"/>
+          <!-- 3D Colorful Logo Icon -->
+          <g transform="translate(20, 42)">
+            
+              <defs>
+                <linearGradient id="g6" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stop-color="#DB2777"/>
+                  <stop offset="100%" stop-color="#F472B6"/>
+                </linearGradient>
+              </defs>
+              <rect width="50" height="50" rx="12" fill="url(#g6)"/>
+              <path d="M25 10l4.47 10.53L40 22l-8.68 7.53L33.94 40 25 34.07 16.06 40l2.62-10.47L10 22l10.53-1.47L25 10z" fill="#FFFFFF"/>
+            
           </g>
           
           <text x="85" y="55" font-family="monospace" font-size="15" font-weight="bold" fill="#0F172A">CareerLogic-AI_</text>
