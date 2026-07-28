@@ -40,10 +40,47 @@
 
   <br/><br/>
 
-  <!-- HORIZONTAL CLICKABLE TERMINAL SOCIAL BADGES -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/gurud132" target="_blank"><img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_linkedin_dark.svg" alt="LinkedIn" height="42"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:dguru5079@gmail.com"><img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_email_dark.svg" alt="Email" height="42"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Guru006-Dev" target="_blank"><img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_github_dark.svg" alt="GitHub" height="42"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Guru006-Dev" target="_blank"><img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_portfolio_dark.svg" alt="Portfolio" height="42"></a>
-  </p>
+  <!-- HORIZONTAL TABLE FOR GUARANTEED HORIZONTAL SOCIAL BADGES -->
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/gurud132" target="_blank">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_linkedin_dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_linkedin_light.svg">
+            <img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_linkedin_dark.svg" alt="LinkedIn" height="42">
+          </picture>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:dguru5079@gmail.com">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_email_dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_email_light.svg">
+            <img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_email_dark.svg" alt="Email" height="42">
+          </picture>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Guru006-Dev" target="_blank">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_github_dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_github_light.svg">
+            <img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_github_dark.svg" alt="GitHub" height="42">
+          </picture>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Guru006-Dev" target="_blank">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_portfolio_dark.svg">
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_portfolio_light.svg">
+            <img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/badge_portfolio_dark.svg" alt="Portfolio" height="42">
+          </picture>
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br/><br/>
 
