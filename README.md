@@ -1,39 +1,35 @@
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/light.svg">
-  <img alt="Guru.D" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/dark.svg" width="100%">
-</picture>
+<a href="https://github.com/Guru006-Dev">
+  <img src="./dark.svg#gh-dark-mode-only" width="100%" alt="Guru.D Banner" />
+  <img src="./light.svg#gh-light-mode-only" width="100%" alt="Guru.D Banner" />
+</a>
 
 <br/><br/>
 
-<!-- ===== GITHUB STREAK ===== -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Guru006-Dev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
-    <img width="100%" src="https://streak-stats.demolab.com/?user=Guru006-Dev&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Guru's streak" />
-  </picture>
+
+  <!-- ===== GITHUB STREAK ===== -->
+  <a href="https://github.com/Guru006-Dev">
+    <img src="https://streak-stats.demolab.com/?user=Guru006-Dev&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180#gh-dark-mode-only" width="100%" alt="Guru's Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Guru006-Dev&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180#gh-light-mode-only" width="100%" alt="Guru's Streak" />
+  </a>
 
   <br/><br/>
 
-  <!-- ===== STATS + TOP LANGUAGES (SIDE BY SIDE) ===== -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Guru006-Dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Guru006-Dev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF" alt="Guru's GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru006-Dev&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru006-Dev&layout=compact&hide_border=true&title_color=0891B2&text_color=475569&bg_color=FFFFFF" alt="Guru's Top Languages" />
-  </picture>
+  <!-- ===== STATS + TOP LANGUAGES ===== -->
+  <a href="https://github.com/Guru006-Dev">
+    <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Guru006-Dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F#gh-dark-mode-only" width="49%" alt="Guru's Stats" />
+    <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Guru006-Dev&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF#gh-light-mode-only" width="49%" alt="Guru's Stats" />
+    <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Guru006-Dev&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F#gh-dark-mode-only" width="49%" alt="Guru's Top Languages" />
+    <img src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Guru006-Dev&layout=compact&hide_border=true&title_color=0891B2&text_color=475569&bg_color=FFFFFF#gh-light-mode-only" width="49%" alt="Guru's Top Languages" />
+  </a>
 
   <br/><br/><br/>
 
   <!-- ===== FEATURED PROJECTS GRID ===== -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_light.svg">
-    <img alt="Projects List" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/main/projects_dark.svg" width="100%">
-  </picture>
+  <a href="https://github.com/Guru006-Dev">
+    <img src="./projects_dark.svg#gh-dark-mode-only" width="100%" alt="Projects List" />
+    <img src="./projects_light.svg#gh-light-mode-only" width="100%" alt="Projects List" />
+  </a>
 
   <br/><br/>
 
@@ -47,9 +43,9 @@
   <br/><br/>
 
   <!-- ===== CONTRIBUTION SNAKE ===== -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <a href="https://github.com/Guru006-Dev">
+    <img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Contribution Snake" />
+    <img src="https://raw.githubusercontent.com/Guru006-Dev/Guru006-Dev/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%" alt="Contribution Snake" />
+  </a>
+
 </div>
