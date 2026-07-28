@@ -2,6 +2,32 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      viewBox="0 0 1180 610" width="1180" height="610"
      role="img" aria-label="Guru.D - GitHub Profile Banner">
+  <style>
+    @keyframes cursorBlink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .blink-cursor {
+      animation: cursorBlink 0.8s infinite;
+    }
+    @keyframes livePulse {
+      0%, 100% { transform: scale(1); opacity: 0.3; }
+      50% { transform: scale(2.4); opacity: 0.9; }
+    }
+    .live-pulse {
+      animation: livePulse 1.8s infinite ease-in-out;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+    @keyframes scanBeam {
+      0% { transform: translateY(0px); opacity: 0.2; }
+      50% { opacity: 0.7; }
+      100% { transform: translateY(540px); opacity: 0.2; }
+    }
+    .scan-beam {
+      animation: scanBeam 4s infinite ease-in-out;
+    }
+  </style>
   <defs>
     <clipPath id="pc">
       <rect x="14.0" y="46.0" width="420.0" height="556.0" rx="6"/>
@@ -21,8 +47,8 @@
 <path d="M434,62 L434,44 L416,44" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.55"/>
 <path d="M14,584 L14,602 L32,602" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.55"/>
 <path d="M434,584 L434,602 L416,602" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.55"/>
-<line x1="14" y1="44" x2="434" y2="44" stroke="#22D3EE" stroke-width="1.5" opacity="0.4"><animate attributeName="y1" values="44;590;44" dur="4s" repeatCount="indefinite"/><animate attributeName="y2" values="44;590;44" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.2;0.6;0.2" dur="4s" repeatCount="indefinite"/></line>
-<circle cx="1125" cy="20" r="4" fill="#EF4444" opacity="0.25"><animate attributeName="r" values="4;9;4" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.25;0;0.25" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="1125" cy="20" r="4" fill="#EF4444"/><text x="1133" y="24" font-family="monospace" font-size="10" fill="#EF4444" font-weight="bold">LIVE</text>
+<line x1="14" y1="44" x2="434" y2="44" stroke="#22D3EE" stroke-width="2" class="scan-beam"/>
+<circle cx="1125" cy="20" r="4" fill="#EF4444" class="live-pulse"/><circle cx="1125" cy="20" r="4" fill="#EF4444"/><text x="1135" y="24" font-family="monospace" font-size="10" fill="#EF4444" font-weight="bold">LIVE</text>
 
   
     <defs>
@@ -108,7 +134,7 @@
   </g>
 
   <g id="info">
-    <text x="480" y="65" font-family="monospace" font-size="12" fill="#22D3EE" font-weight="bold" letter-spacing="2">SYSTEM.INFO<tspan fill="#A78BFA"><animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite">_</animate></tspan></text>
+    <text x="480" y="65" font-family="monospace" font-size="12" fill="#22D3EE" font-weight="bold" letter-spacing="2">SYSTEM.INFO<tspan fill="#A78BFA" class="blink-cursor">_</tspan></text>
 <text x="480" y="95" font-family="monospace" font-size="10.5" fill="#22D3EE">Subject</text><text x="618" y="95" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . . . . . . . . </text><text x="1152" y="95" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Guru.D</text>
 <text x="480" y="117" font-family="monospace" font-size="10.5" fill="#22D3EE">Role</text><text x="618" y="117" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . </text><text x="1152" y="117" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Final Year CSE Student</text>
 <text x="480" y="139" font-family="monospace" font-size="10.5" fill="#22D3EE">Origin</text><text x="618" y="139" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . . </text><text x="1152" y="139" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">Vellore, Tamil Nadu</text>
@@ -125,6 +151,6 @@
 <a href="#" target="_blank" style="cursor: pointer;"><text x="480" y="395" font-family="monospace" font-size="10.5" fill="#22D3EE">Contact.Portfolio</text><text x="618" y="395" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . </text><text x="1152" y="395" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">coming soon</text></a>
 <a href="https://www.linkedin.com/in/gurud132" target="_blank" style="cursor: pointer;"><text x="480" y="417" font-family="monospace" font-size="10.5" fill="#22D3EE">Contact.LinkedIn</text><text x="618" y="417" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . </text><text x="1152" y="417" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">linkedin.com/in/gurud132</text></a>
 <a href="https://github.com/Guru006-Dev" target="_blank" style="cursor: pointer;"><text x="480" y="439" font-family="monospace" font-size="10.5" fill="#22D3EE">Contact.GitHub</text><text x="618" y="439" font-family="monospace" font-size="10.5" fill="#64748B" opacity="0.35">. . . . . . . . . . . . . . . </text><text x="1152" y="439" font-family="monospace" font-size="10.5" fill="#F8FAFC" text-anchor="end">@Guru006-Dev</text></a>
-<text x="480" y="588" font-family="monospace" font-size="10.5" fill="#22D3EE">▸ More about me &amp; projects below in README ↓<tspan fill="#22D3EE"><animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite">_</animate></tspan></text>
+<text x="480" y="588" font-family="monospace" font-size="10.5" fill="#22D3EE">▸ More about me &amp; projects below in README ↓<tspan fill="#22D3EE" class="blink-cursor">_</tspan></text>
   </g>
 </svg>
